@@ -5,6 +5,8 @@ Sou desenvolvedor de software embarcado, com interesse nas áreas de:
 - Microcontroladores
 - Sistemas operacionais Embarcados
 
+  ![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemsilas&show_icons=true&theme=tokyonight)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Silas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Silas-cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
